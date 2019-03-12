@@ -2,3 +2,5 @@
  Git is a free software under the GPL.
  Git has a mutable index called stage.
  Git track changes of files.
+ My stupid boss still prefers SVN.
+ Git use git to handle codes ,more safty.
